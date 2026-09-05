@@ -4,9 +4,7 @@ export const NavBar = () => {
   return (
     <>
 
-
-
-    
+  
     </>
   )
 }
